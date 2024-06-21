@@ -104,6 +104,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - multer
 - csv-parser
 
----
+![image](https://github.com/somesh123-ctrl/sarg_backend/assets/55444715/c4632df3-5f76-406b-817d-d0f4270c3692)
+![image](https://github.com/somesh123-ctrl/sarg_backend/assets/55444715/743e4e8f-7892-4125-8f90-dd75a7606a57)
+![image](https://github.com/somesh123-ctrl/sarg_backend/assets/55444715/4b848a42-f340-48ed-a888-cede0de0dd32)
 
-Adjust the paths, database schema, and any additional details based on your specific application requirements. This README serves as a guide for developers who want to understand, use, or contribute to your Node.js Express API project.
+
+
+
