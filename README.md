@@ -1,6 +1,4 @@
-To create a README file for your Node.js application using Express and MySQL, follow the template below. This README will provide an overview of your application, instructions for setup, usage, and other relevant details.
 
----
 
 # Node.js Express API with MySQL Database
 
